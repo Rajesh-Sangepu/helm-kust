@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<your-repo-name>.git
+    repoURL: https://github.com/Rajesh-Sangepu/helm-kust.git
     targetRevision: HEAD # Or specific branch/tag (e.g., "main")
     path: 'my-helm-chart-repo'              # Path to the Helm chart in the repo
     helm:
